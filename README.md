@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Blackhaert
 - 👀 I’m interested in ...experience and learning new things.
-- 🌱 I’m currently learning ...full stack
 - 💞️ I’m looking to collaborate on ...newbies stuff
 - 📫 How to reach me ...veli.gjorreta@outlook.com
 
